@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+body{
+    background-image: url(WelcomePage.png);
+    background-repeat: no-repeat;
+    background-size: 1536px 730px;
+}
+.start{
+    height: 117px;
+    width: 130px;
+    position: relative;
+    top: 418px;
+    left: 708px;
+}
+.start:hover{
+    filter: brightness(1.2);
+    transform: translateY(-5px) translateX(5px)

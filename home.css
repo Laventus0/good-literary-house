@@ -1,0 +1,134 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+nav {
+    width: 100%
+    height: 100px;
+    background: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header{
+    position: relative;
+    top: 0px;
+}
+.nav-items{
+    font-family: 'Lucida Grande', sans-serif
+}
+.logo{
+    color: #bd681f;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+nav a{
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #bd681f;
+    padding: 0 1.5rem;
+    font-weight: bold;
+}
+nav a:hover{
+    color: #e68929;
+}
+body{
+    background-image: url(Shelves.png);
+    background-repeat: no-repeat;
+    background-size: 1536px 761px;
+}
+.Sep{
+    height: 160px;
+    width: 138px;
+    position: relative;
+    top: 169px;
+    left: 147px;
+}
+.Sep:hover{
+    filter: brightness(120%) drop-shadow(-4px 4px 4px rgb(85, 81, 81));
+}
+.Harry{
+    height: 160px;
+    width: 138px;
+    position: relative;
+    top: 169px;
+    left: 189px;
+}
+.Harry:hover{
+    filter: brightness(120%) drop-shadow(-4px 4px 4px rgb(85, 81, 81));
+}
+.Pride{
+    height: 160px;
+    width: 138px;
+    position: relative;
+    top: 168px;
+    left: 221.5px;
+}
+.Pride:hover{
+    filter: brightness(120%) drop-shadow(-4px 4px 4px rgb(85, 81, 81));
+}
+.Para{
+    height: 160px;
+    width: 138px;
+    position: relative;
+    top: 409px;
+    left: -250px;
+}
+.Para:hover{
+    filter: brightness(120%) drop-shadow(-4px 4px 4px rgb(85, 81, 81));
+}
+.Tom{
+    height: 160px;
+    width: 138px;
+    position: relative;
+    top: 410px;
+    left: -100px;
+}
+.Tom:hover{
+    filter: brightness(120%) drop-shadow(-4px 4px 4px rgb(85, 81, 81));
+}
+.Gats{
+    height: 160px;
+    width: 138px;
+    position: relative;
+    top: 169px;
+    left: 216px;
+}
+.Gats:hover{
+    filter: brightness(120%) drop-shadow(-4px 4px 4px rgb(85, 81, 81));
+}
+.Mise{
+    height: 160px;
+    width: 138px;
+    position: relative;
+    top: 169px;
+    left: 367px;
+}
+.Mise:hover{
+    filter: brightness(120%) drop-shadow(-4px 4px 4px rgb(85, 81, 81));
+}
+.Light{
+    height: 160px;
+    width: 138px;
+    position: relative;
+    top: 409px;
+    left: -67px;
+}
+.Light:hover{
+    filter: brightness(120%) drop-shadow(-4px 4px 4px rgb(85, 81, 81));
+}
+.Night{
+    height: 160px;
+    width: 138px;
+    position: relative;
+    top: 410px;
+    left: 81px;
+}
+.Night:hover{
+    filter: brightness(120%) drop-shadow(-4px 4px 4px rgb(85, 81, 81));
+}
